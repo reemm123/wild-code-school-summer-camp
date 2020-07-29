@@ -1,0 +1,7 @@
+prix=int(input())
+argent=int(input())
+
+if argent >= 0:
+  prix=int(input()):
+  calcul= (argent / prix):
+print(calcul)
